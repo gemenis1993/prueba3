@@ -13,8 +13,8 @@
 
 <body>
 
-<h1> una pagina de prueba 1</h1>
-<p>  un parrafo de texto  </p>
+<h1> una pagina de prueba 10</h1>
+<p>  un parrafo de texto texto  </p>
 <p1> estoy en cambios02</p1>
 
 </body>
